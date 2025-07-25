@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="index, follow">
+  <meta name="description" content="Public Google Drive folder containing shared files.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Public Google Drive Folder</title>
+</head>
+<body>
+  <h1>Shared Google Drive Folder</h1>
+  <p>Click the link below to access the public folder:</p>
+  <p>
+    <a href="https://drive.google.com/drive/folders/1-2YmnvxwqHmSEXhYuqBdvfB-y70Xi2P8" target="_blank" rel="noopener noreferrer">
+      View Folder on Google Drive
+    </a>
+  </p>
+</body>
+</html>
